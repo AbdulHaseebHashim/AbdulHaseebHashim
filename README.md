@@ -1,29 +1,22 @@
-# ⚡ Abdul Haseeb Hashim
+<div align="center">
 
-> **Cybersecurity Enthusiast | AI Explorer | Automation & Web Developer**
+# `[> ADMIN-HASHIM.EXE <]`
 
----
+![AbdulHaseebHashim Activity](https://github-readme-stats.vercel.app/api?username=AbdulHaseebHashim&show_icons=true&theme=cyberpunk&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66)
 
-### 🛡️ About Me
+`/* Accessing Cybersecurity & AI Core... */`
 
-* 🔭 **Focus:** Cybersecurity, Ethical Hacking & Artificial Intelligence
-* 💻 **Languages:** Python, JavaScript, C, HTML5, CSS3
-* ⚙️ **Automation:** Mobile Automation (Tasker), App Modding (MT Manager)
-* 🐧 **Environment:** Linux & Termux CLI user
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=AbdulHaseebHashim&color=00FF66&style=plastic&label=TERMINAL+VIEWS" />
 
-### 🛠️ Tech & Tools
-
-* **Programming & Web:** `Python` `JavaScript` `C` `HTML5` `CSS3`
-* **OS & Tools:** `Linux` `Termux` `Tasker` `Git`
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### `// SYSTEM_PROFILE.CFG`
 
-![Haseeb's Stats](https://github-readme-stats.vercel.app/api?username=AbdulHaseebHashim&show_icons=true&theme=dark&hide_border=true)
-
----
-
-*Driven by curiosity. Automating the redundant, securing the digital.*
+```bash
+$ primary_focus:   [CYBERSECURITY & ETHICAL HACKING]
+$secondary_focus: [AI & AUTOMATION EXPLORATION]$ scripting_langs: [PYTHON, C, JAVASCRIPT, HTML5, CSS3]
+$environment:     [TERMUX, LINUX CLI, TASKER, MT MANAGER]$ status:          [SYSTEM ACTIVE & LEARNING]
